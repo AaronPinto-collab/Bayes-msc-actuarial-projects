@@ -2,6 +2,8 @@ This repository contains selected academic projects completed during my MSc in A
 
 The projects cover several areas of actuarial and quantitative finance, including:
 
+- Portfolio analysis and Effient frontier
+- Binomial pricing model
 - Financial Mathematics (CM1)
 - Insurance Risk Modelling
 - Time Series Analysis
